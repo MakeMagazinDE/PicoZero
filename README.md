@@ -14,3 +14,4 @@ Maker Media GmbH
 Hier finden Sie den Quellcode und die Schaltungen. Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/22 ab Seite 40](https://www.heise.de/select/make/2022/5/2221010503444847553) zu lesen. 
 
 
+[Video](https://youtu.be/E4Thepn823I)
